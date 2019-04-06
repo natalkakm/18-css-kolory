@@ -1,0 +1,14 @@
+body{
+    text-align:left;
+    background-color:rgb(221, 197, 197);
+    
+}
+h1{
+    color:red; text-decoration: blueviolet;
+}
+#p1{
+    color:palevioletred; 
+}
+#p2{
+    color:blue;
+}
